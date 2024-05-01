@@ -1,3 +1,6 @@
+![screencapture-localhost-3000-2024-05-01-14_06_33](https://github.com/virajrakholiya/todo-list/assets/94692042/f854263c-c51c-4479-be1c-28551e9a3a1b)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
